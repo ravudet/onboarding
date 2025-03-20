@@ -17,4 +17,4 @@ pause
 echo "confirm that obs is getting sources -> display capture as the correct monitor"
 pause
 
-start msedge --new-window https://studio.youtube.com/channel/@ravudet/livestreaming
+start msedge --new-window https://studio.youtube.com/channel/@ravudet/livestreaming https://studio.youtube.com/channel/@ravudet
