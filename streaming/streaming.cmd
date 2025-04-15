@@ -4,6 +4,10 @@ start obs.lnk
 echo put in airpods
 pause
 
+start ms-settings:bluetooth
+echo connect to airpods
+pause
+
 start ms-settings:sound
 echo confirm that computer is getting input from airpods and not microphone
 pause
